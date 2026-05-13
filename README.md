@@ -32,12 +32,3 @@ Atualmente cursando **Ciências da Computação** na Newton Paiva (conclusão 20
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
----
-
-### Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlmeidaGit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlmeidaGit&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
