@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Leonardo Almeida 👋</h1>
 
 <p align="center">
-  Desenvolvedor Python | Django & REST APIs | Em transição de Automação para Software
+  Desenvolvedor Back-End | Python | Django | APIs Rest | Docker | PostgresSQL
 </p>
 
 <p align="center">
