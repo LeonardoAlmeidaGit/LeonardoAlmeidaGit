@@ -46,6 +46,3 @@ Atualmente cursando **Ciência da Computação**.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-almeida-dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardoalmeida196@outlook.com)
 
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LeonardoAlmeidaGit&show_icons=true&locale=pt-br&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlmeidaGit&layout=compact&locale=pt-br&theme=tokyonight)
